@@ -1,0 +1,29 @@
+/github-webhook/
+
+content type =json
+
+https://medium.com/@bdivya66/run-your-first-python-build-using-jenkins-905dc581b8c4
+
+https://www.youtube.com/watch?v=PhxZamqYJws
+https://www.youtube.com/watch?v=Uu8_cb0WRAw
+https://www.youtube.com/watch?v=xRyksDwLzKk
+https://www.youtube.com/watch?v=rPuWYodOQ0o
+https://www.youtube.com/watch?v=RWQvlC1mfss
+https://www.youtube.com/watch?v=6YZvp2GwT0A
+
+
+https://www.youtube.com/watch?v=mbeQWBNaNKQ
+
+https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project
+
+Sandeep saradhy 
+https://www.youtube.com/watch?v=GYrPil-3TQU
+
+python
+https://www.youtube.com/watch?v=6njM8g5hKuk
+
+https://dev.to/sava_dev/jenkins-creating-a-pipeline-for-python-projects-4h6h
+
+adding webhooks and ngrok please
+
+https://www.youtube.com/watch?v=ovgcEU0aW4o
